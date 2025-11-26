@@ -37,7 +37,7 @@ public class KeywordsDetector {
                 // Check if the sentence contains the keyword
                 if (sentenceLower.contains(keywordLower)) {
                     found = true;
-                    break; // No need to check more keywords
+                    break; // No need to check more
                 }
             }
 
