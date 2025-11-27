@@ -41,7 +41,7 @@ public class KeywordsDetector {
                 }
             }
 
-            // If any keyword was found → print the sentence
+            // If any keyword was found → print the 
             if (found) {
                 System.out.println(sentences[i]);
             }
